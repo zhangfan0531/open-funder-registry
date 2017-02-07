@@ -1,6 +1,6 @@
-# Open Funder Registry
+# Crossref Funder Registry
 
-The Open Funder Registry provides a common taxonomy of international funding body names that funding data participants should use to normalize funder names and IDs for deposit with Crossref.
+The Crossref Funder Registry provides a common taxonomy of international funding body names that funding data participants should use to normalize funder names and IDs for deposit with Crossref.
 
 The list should be used to present authors with a pre-populated "Funder Name" option at the time of submission, and can also be used to match funder names extracted from papers.
 

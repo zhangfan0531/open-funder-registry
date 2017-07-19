@@ -8,6 +8,6 @@ The list is available to download as an RDF file, and is freely available under 
 
 ## Latest Version
 
-The latest version of the registry is `v1.10`. Download the latest release [here](https://github.com/CrossRef/open-funder-registry/releases/latest).
+The latest version of the registry is `v1.11`. Download the latest release [here](https://github.com/CrossRef/open-funder-registry/releases/latest).
 
 A .csv file of the most recent version of the Registry can [also be downloaded](https://doi.crossref.org/funderNames?mode=list) Note that there is no version history at this time for the .csv format.

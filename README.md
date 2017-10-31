@@ -6,7 +6,7 @@ The list should be used to present authors with a pre-populated "Funder Name" op
 
 The list is available to download as an RDF file, and is freely available under a CC0 license waiver.
 
-## Latest Version
+## Latest Version
 
 The latest version of the registry is `v1.13`. Download the latest release [here](https://github.com/CrossRef/open-funder-registry/releases/latest).
 
